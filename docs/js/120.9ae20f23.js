@@ -2451,3 +2451,4 @@ class So{constructor(t,e){this.hasPendingWrites=t,this.fromCache=e}isEqual(t){re
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */!function(t,e=!0){!function(t){C=t}(s.MF),(0,s.om)(new o.uA("firestore",((t,{instanceIdentifier:n,options:r})=>{const i=t.getProvider("app").getImmediate(),s=new uo(new B(t.getProvider("auth-internal")),new z(t.getProvider("app-check-internal")),function(t,e){if(!Object.prototype.hasOwnProperty.apply(t.options,["projectId"]))throw new M(O.INVALID_ARGUMENT,'"projectId" not provided in firebase.initializeApp.');return new Ut(t.options.projectId,e)}(i,n),i);return r=Object.assign({useFetchStreams:e},r),s._setSettings(r),s}),"PUBLIC").setMultipleInstances(!0)),(0,s.KO)(b,"4.7.0",t),(0,s.KO)(b,"4.7.0","esm2017")}()}}]);
+//# sourceMappingURL=120.9ae20f23.js.map

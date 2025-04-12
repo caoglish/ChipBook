@@ -25,6 +25,5 @@ pnpm-debug.log*
 
 *.spec.txt
 *.jpg
-/docs
 gitflow*
 chipbook/*

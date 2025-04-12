@@ -1,0 +1,1 @@
+import{_ as e,c as r,o,b6 as s}from"./index-DNLRhtL-.js";const c={};function n(t,a){return o(),r(s,{indeterminate:"",height:20,rounded:"",color:"blue-grey-lighten-1",class:"m-10"})}const i=e(c,[["render",n]]);export{i as P};
